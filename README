@@ -1,0 +1,10 @@
+This is a Stanford Bunny written in JavaScript and WebGL. 
+
+It has all the requirement features in the assignment instruction. The picture included is a screenshot that put the bunny and lights to the appropriate position.
+
+I watched some online tutorial when learning WebGL, basically includes StackOverflow and the following sites:
+
+https://webglfundamentals.org/webgl/lessons/
+https://www.youtube.com/watch?v=kB0ZVUrI4Aw
+http://learnwebgl.brown37.net/rendering/obj_to_buffers.html
+https://learnopengl.com/Lighting/Basic-Lighting
